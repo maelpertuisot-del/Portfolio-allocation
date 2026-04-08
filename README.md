@@ -8,12 +8,12 @@
 
 Fill in the following information.
 
-- **Project Title:** [Insert project title]
+- **Project Title:** Portfolio Allocation
 - **Group Name:** [Insert group name]
 - **Group Members:**  
-  - Student 1 – [Name]  
-  - Student 2 – [Name]  
-  - Student 3 – [Name]
+  - Student 1 – Maël Pertuisot  
+  - Student 2 – Valentin Martel  
+  - Student 3 – Mathias Garnier
 
 - **Course Name:** AI In Finance
 - **Instructor:** Nicolas De Roux & Mohamed EL FAKIR
