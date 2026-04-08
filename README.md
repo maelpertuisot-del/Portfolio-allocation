@@ -6,7 +6,7 @@
 Fill in the following information.
 
 - **Project Title:** Portfolio Allocation
-- **Group Name:** [Insert group name]
+- **Group Name:** Groupe 1
 - **Group Members:**  
   - Student 1 – Maël Pertuisot  
   - Student 2 – Valentin Martel  
@@ -14,7 +14,7 @@ Fill in the following information.
 
 - **Course Name:** AI In Finance
 - **Instructor:** Nicolas De Roux & Mohamed EL FAKIR
-- **Submission Date:** [Insert date]
+- **Submission Date:** 20/04/2026
 
 ---
 
