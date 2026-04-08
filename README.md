@@ -1,7 +1,4 @@
-# Project Title
-
-⚠️ Replace this title with the **name of your project**
-
+# Projet Final IA in Finance - Master 2 Finance - Université Paris-Panthéon-Assas
 ---
 
 # 1. Project Information
