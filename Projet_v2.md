@@ -258,8 +258,8 @@ Open the notebook directly in your browser:
 4. Add this cell at the top and run it:
 
 ```python
-!git clone https://github.com/mathiasgarnier24-rgb/REPO_NAME.git
-%cd REPO_NAME
+!git clone https://github.com/maelpertuisot-del/Portfolio-allocation.git
+%cd Portfolio-allocation
 !pip install -r requirements.txt
 import sys; sys.path.insert(0, '.')
 ```
