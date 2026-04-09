@@ -270,8 +270,8 @@ import sys; sys.path.insert(0, '.')
 
 ```bash
 # Clone the repository
-git clone https://github.com/mathiasgarnier24-rgb/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/maelpertuisot-del/Portfolio-allocation.git
+cd Portfolio-allocation
 
 # Install dependencies
 pip install -r requirements.txt
