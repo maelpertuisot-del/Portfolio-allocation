@@ -258,17 +258,10 @@ Ouvrez le notebook directement dans votre navigateur :
 4. Ajoutez cette cellule en haut et exécutez-la :
 
 ```python
-import os, sys
-os.makedirs("results", exist_ok=True)
-os.makedirs("data", exist_ok=True)
-
-REPO = "Portfolio-allocation"
-if not os.path.exists(REPO):
-    !git clone https://github.com/maelpertuisot-del/{REPO}.git
-os.chdir(REPO)
-sys.path.insert(0, ".")
-!pip install -r requirements.txt -q
-print("✅ Prêt !")
+!git clone https://github.com/maelpertuisot-del/Portfolio-allocation.git
+%cd Portfolio-allocation
+!pip install -r requirements.txt
+import sys; sys.path.insert(0, '.')
 ```
 
 5. **Exécution → Tout exécuter**
@@ -277,7 +270,7 @@ print("✅ Prêt !")
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/maelpertuisot-del/Portfolio-analysis.git
+git clone https://github.com/maelpertuisot-del/Portfolio-allocation.git
 cd ai-finance-portfolio
 
 # Installer les dépendances
