@@ -262,9 +262,9 @@ import os, sys
 os.makedirs("results", exist_ok=True)
 os.makedirs("data", exist_ok=True)
 
-REPO = "ai-finance-portfolio"  # ← nom exact de votre repo
+REPO = "Portfolio-allocation"
 if not os.path.exists(REPO):
-    !git clone https://github.com/mathiasgarnier24-rgb/{REPO}.git
+    !git clone https://github.com/maelpertuisot-del/{REPO}.git
 os.chdir(REPO)
 sys.path.insert(0, ".")
 !pip install -r requirements.txt -q
@@ -277,7 +277,7 @@ print("✅ Prêt !")
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/mathiasgarnier24-rgb/ai-finance-portfolio.git
+git clone https://github.com/maelpertuisot-del/Portfolio-analysis.git
 cd ai-finance-portfolio
 
 # Installer les dépendances
