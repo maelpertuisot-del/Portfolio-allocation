@@ -27,7 +27,7 @@ RESULTS_DIR.mkdir(exist_ok=True)
 # ---------------------------------------------------------------------------
 DATA = dict(
     start            = "2015-01-01",    # Download start
-    end              = "2024-01-01",    # Download end
+    end              = "2026-01-01",    # Download end
     missing_threshold= 0.10,            # Drop tickers with >10% NaN
     ffill_limit      = 5,               # Max consecutive forward-fill days
 )
@@ -47,8 +47,8 @@ FEATURES = dict(
 # Train / Val / Test split
 # ---------------------------------------------------------------------------
 SPLIT = dict(
-    train_end        = "2020-12-31",
-    val_end          = "2022-06-30",
+    train_end        = "2022-12-31",
+    val_end          = "2024-06-30",
     # test: everything after val_end
 )
 
@@ -94,7 +94,7 @@ PORTFOLIO = dict(
 # ---------------------------------------------------------------------------
 BACKTEST = dict(
     start = "2018-01-01",
-    end   = "2024-01-01",
+    end   = "2026-01-01",
 )
 
 # ---------------------------------------------------------------------------
