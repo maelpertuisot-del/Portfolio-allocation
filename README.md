@@ -179,7 +179,7 @@ Les 3 stratégies sont positionnées dans cet espace rendement/risque.
 
 ```
 project_portfolio/
-├── project_portfolio.ipynb    # Notebook principal (code complet)
+├── Project_Portfolio_Martel_Pertuisot_Garnier.ipynb    # Notebook principal (code complet)
 ├── README.md                   # Ce fichier
 ```
 
@@ -193,5 +193,5 @@ Ouvrez le notebook directement dans votre navigateur :
 
 1. Allez sur [colab.research.google.com](https://colab.research.google.com)
 2. **Fichier → Ouvrir un notebook → onglet GitHub**
-3. Collez l'URL du dépôt et sélectionnez le notebook `project_portfolio.ipynb`
+3. Collez l'URL du dépôt et sélectionnez le notebook `Project_Portfolio_Martel_Pertuisot_Garnier.ipynb`
 4. **Exécution → Tout exécuter**
