@@ -17,10 +17,10 @@ ROST,Conso,0.0,True,False
 EBAY,Conso,0.0,True,False
 ORLY,Conso,0.0,True,False
 DLTR,Conso,0.0,True,False
-ADSK,Finance,0.0,True,False
-WDAY,Finance,0.0,True,False
-VEEV,Finance,0.0,True,False
-CTSH,Finance,0.0,True,False
+MS,Finance,0.0,True,False
+BX,Finance,0.0,True,False
+MCO,Finance,0.0,True,False
+MSCI,Finance,0.0,True,False
 VRSK,Industrie,0.0,True,False
 EXPD,Industrie,0.0,True,False
 CSGP,Industrie,0.0,True,False
@@ -32,5 +32,5 @@ EVRG,Utilities,0.0,True,False
 NWE,Utilities,0.0,True,False
 MSEX,Utilities,0.0,True,False
 MTDR,Énergie,0.0,True,True
-RRC,Énergie,0.0,True,True
+RRC,Énergie,0.0,True,False
 AR,Énergie,0.0,True,False

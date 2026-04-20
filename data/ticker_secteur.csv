@@ -6,9 +6,9 @@ META,Tech
 NVDA,Tech
 ADBE,Tech
 CRM,Tech
-INTC,Tech
+NFLX,Tech
 AMD,Tech
-CSCO,Tech
+FTNT,Tech
 AVGO,Tech
 TXN,Tech
 QCOM,Tech
@@ -18,7 +18,7 @@ AMGN,Santé
 GILD,Santé
 REGN,Santé
 VRTX,Santé
-BIIB,Santé
+ISRG,Santé
 ILMN,Santé
 DXCM,Santé
 AMZN,Conso
@@ -27,13 +27,13 @@ COST,Conso
 PEP,Conso
 SBUX,Conso
 MDLZ,Conso
-KHC,Conso
+MELI,Conso
 MNST,Conso
 PYPL,Finance
-ISRG,Finance
-MELI,Finance
-FTNT,Finance
-NFLX,Finance
+JPM,Finance
+SPGI,Finance
+BLK,Finance
+V,Finance
 HON,Industrie
 CSX,Industrie
 ODFL,Industrie
@@ -46,6 +46,6 @@ XEL,Utilities
 AEP,Utilities
 EXC,Utilities
 FANG,Énergie
+XOM,Énergie
 MTDR,Énergie
-RRC,Énergie
 IDXX,Santé
