@@ -5,7 +5,7 @@
 # 1. Informations du Projet
 
 - **Titre du projet :** Modèle d'allocation de portefeuille par machine learning
-- **Nom du groupe :** Groupe 1
+- **Nom du groupe :** Groupe 2
 - **Membres du groupe :**
   - Étudiant 1 – Maël Pertuisot
   - Étudiant 2 – Valentin Martel
